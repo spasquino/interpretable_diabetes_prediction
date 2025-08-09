@@ -1,4 +1,6 @@
-# BRFSS Modeling (Julia)
+[this repo is still under development]
+
+# Interpretable Diabetes Risk Prediction
 
 This repository is a Julia-based machine learning pipeline for interpretable prediction of diabetes risk, using demographic and survey-based medical data. It includes modules for data preprocessing, missing-value imputation, model training (IAI and sparse logistic regression), and evaluation, enabling reproducible end-to-end analysis.
 
